@@ -1,34 +1,14 @@
 {
   "users": [
     {
-      "id": "1",
-      "name": "Igor Heije",
-      "email": "heije.tomori0@hotmail.com"
-    },
-    {
-      "id": "2",
-      "name": "Arthur Eiko",
-      "email": "eiko.tomori0@hotmail.com"
-    },
-    {
-      "name": "asdasd",
-      "email": "arthureiko29@gmail.com",
-      "id": "yL1sjw~"
-    },
-    {
       "name": "Igor Heije",
       "email": "heije.tomori2014@outlook.com",
-      "id": "0~jRblP"
+      "id": 1
     },
     {
-      "name": "Igor Heije",
-      "email": "heije.tomori2014@outlook.com",
-      "id": "EBYgXmm"
-    },
-    {
-      "name": "Igor Heije",
-      "email": "heije.tomori2014@outlook.com",
-      "id": "v50GZR_"
+      "name": "",
+      "email": "",
+      "id": 2
     }
   ]
 }
